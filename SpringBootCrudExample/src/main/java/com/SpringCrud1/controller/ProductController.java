@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.SpringCrud1.entity.Product;
 import com.SpringCrud1.service.ProductService;
 
-//Simple comment added-modified
+//Simple comment added
 @RestController
 public class ProductController {
 	
